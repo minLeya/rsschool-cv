@@ -16,15 +16,24 @@ I'm 21 years old and this year I completed my bachelor's degree. During my four 
 
 ## Code Example
 ```
+function makeNegative(num) {
+  if (num <= 0)
+    {
+      return num;
+    }
+  else {
+    return -num;
+  }
+}
 ```
 ## Education
 * Kazan National Research Technical University named after A.N.Tupolev-KAI
     * Applied Mathematics and Informatics 
 * W3 HTML&CSS&JS courses
-* [https://learn.javascript.ru/](JavaScript Book (in process)) 
-* [https://www.frontendmentor.io] (Frontend Mentor)
+* [JavaScript Book (in process)](https://learn.javascript.ru/)
+* [Frontend Mentor](https://www.frontendmentor.io) 
 
 ## Languages
-Russian - native speaker
-Tatarian - native speaker
-English - B1 (in process of reaching B2)
+* Russian - native speaker
+* Tatarian - native speaker
+* English - B1 (in process of reaching B2)
